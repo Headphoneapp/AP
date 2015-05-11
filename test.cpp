@@ -11,3 +11,4 @@ int main() {
 	cout << t << endl;
 //s
 }
+kos kos kos
